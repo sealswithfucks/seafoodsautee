@@ -40,7 +40,7 @@ body {
 }
 
 .featurette {
-    overflow: scroll;
+  padding-top: 50px;
  
 }
 
