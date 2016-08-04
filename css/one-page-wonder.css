@@ -12,7 +12,7 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('http://placehold.it/1900x500') no-repeat center center scroll;
+    background: url('https://1.bp.blogspot.com/-L2OmNGvI0cQ/UFg31z2wJuI/AAAAAAAABgg/1-0jHo0njpY/s1600/Screen+Shot+2012-09-18+at+09.53.23.png') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -52,7 +52,7 @@ body {
 }
 
 .featurette-heading {
-    font-size: 50px;
+    font-size: 30px;
 }
 
 footer {
