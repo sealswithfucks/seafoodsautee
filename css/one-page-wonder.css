@@ -51,6 +51,8 @@ body {
     margin-left: 40px;
 }
 
+.top-buffer { margin-top:20px; }
+
 .featurette-heading {
     font-size: 30px;
 }
