@@ -40,8 +40,8 @@ body {
 }
 
 .featurette {
-    overflow: hidden;
-    margin-top: 150px;
+    overflow: scroll;
+ 
 }
 
 .featurette-image.pull-left {
@@ -52,7 +52,7 @@ body {
     margin-left: 40px;
 }
 
-.top-buffer { margin-top:20px; }
+
 
 .featurette-heading {
     font-size: 30px;
